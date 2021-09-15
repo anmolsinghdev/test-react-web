@@ -1,0 +1,10 @@
+.sub-jumbo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .lead {
+    width: 80%;
+    text-align: center;
+  }
+}
